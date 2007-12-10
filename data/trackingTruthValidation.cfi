@@ -1,3 +1,4 @@
 module trackingTruthValid = TrackingTruthValid {                   
     untracked string outputFile = 'trackingtruthhisto.root'        
+    InputTag src = trackingtruthprod
 }         
